@@ -21,8 +21,7 @@ This repo takes you from **zero to confident Linux user**, step-by-step:
 |--------|----------|
 | `labs/` | Practical step-by-step labs with explanations |
 | `scripts/` | Bash scripts used in labs |
-| `images/` | Screenshots or terminal outputs |
-| `reports/` | Short lab reports with findings |
+| `images/` | Screenshots or terminal outputs if any |
 
 ---
 
